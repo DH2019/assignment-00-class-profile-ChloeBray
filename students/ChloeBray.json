@@ -1,0 +1,14 @@
+{
+  "firstName": "Chloe Hope",
+  "lastName": "Bray",
+  "nickName": "Chloe Bray",
+  "privateName": true,
+  "picture": "images/ChloeBray.jpg",
+  "privatePicture": false,
+  "email": "chloe.bray@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "ChloeBray",
+  "privateGithub": false,
+  "superpower" : "Jigsaw puzzler",
+  "academicinterests": "Latin American politics"
+}
