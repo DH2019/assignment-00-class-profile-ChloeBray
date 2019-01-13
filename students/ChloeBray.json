@@ -1,8 +1,8 @@
 {
-  "firstName": "Chloe Hope",
+  "firstName": "Chloe",
   "lastName": "Bray",
-  "nickName": "Chloe Bray",
-  "privateName": true,
+  "nickName": "",
+  "privateName": false,
   "picture": "images/ChloeBray.jpg",
   "privatePicture": false,
   "email": "chloe.bray@mail.utoronto.ca",
