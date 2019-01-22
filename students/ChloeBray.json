@@ -1,0 +1,14 @@
+{
+  "firstName": "Chloe",
+  "lastName": "Bray",
+  "nickName": "",
+  "privateName": false,
+  "picture": "images/ChloeBray.jpg",
+  "privatePicture": false,
+  "email": "chloe.bray@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "ChloeBray",
+  "privateGithub": false,
+  "superpower" : "Jigsaw puzzler",
+  "academicinterests": "Latin American politics"
+}
